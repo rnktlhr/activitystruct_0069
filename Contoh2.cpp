@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 
-struct DetailAlamat{};
+struct DetailAlamat{
+    string desa;
+};
 
 struct Mahasiswa{
     string nim;
