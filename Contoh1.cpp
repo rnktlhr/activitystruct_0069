@@ -20,4 +20,5 @@ int main(){
     cin >> mhs.umur;
 
     cout << "\n NIM: " << mhs.nim;
+    cout << "\n Nama: " << mhs.nama;
 }
